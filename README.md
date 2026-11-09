@@ -37,12 +37,17 @@ Link farm &amp; notes for using RTX3090 for AI
 
 ### Models/finetunes/quants
 
+#### MoE
+
+ * https://huggingface.co/KRAFTON/Raon-1-mini-preview
+
 #### Qwen3.8-27B
 
  * https://huggingface.co/ukisai/Swift-Qwen3.8-27B-GGUF [Reddit](https://www.reddit.com/r/LocalLLaMA/comments/1wrv6bp/swift_15_qwen38_27b_a_musthave_for_low_thinking/)
  * https://huggingface.co/Wa1k3r/Qwen3.8-27b-CODER-4q_xs-24GB-262k-Optimalcardfit#how-lexipanel-made-it fitted by LexiPanel
  * https://huggingface.co/DavidAU/Qwen3.8-27B-Jumbo-Fusion-IQ-747-900-Turbo-Brilliance-50X-Reasoning-Instruct-NEO-MAX-MTP-GGUF
  * [Qwen3.8 27B GSQ-RCO IQ3_S for 16GB VRAM](https://www.reddit.com/r/LocalLLaMA/comments/1wzfv45/just_my_how_i_run_qwen38_27b_on_16gb_experience/) 
+ * https://huggingface.co/RedHatAI/Qwen3.8-27B-INT4#accuracy
 
  #### small
 
@@ -66,5 +71,10 @@ Link farm &amp; notes for using RTX3090 for AI
 ## AVI
 
 ComfyUI is the most supported & flexalbe runtime for AVI.  Use INT8_ConvRot quants if available, then plain INT8... 
+
+## Hardware
+
+### unlocks
+ * https://github.com/KohakuBlueleaf/KohakUnlock
 .
  
