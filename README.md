@@ -1,5 +1,7 @@
-# rtx3090-AI
-Link farm &amp; notes for using RTX3090 for AI
+# local-ai-linkfarm
+Link farm &amp; notes for using AI/LLM on local hardware.  Mostly focusing on less popular inferance engines, models, and related tools & tips for hardware I & friends own: RTX3090, RTX30880, M4 MacMini, etc.
+
+@ RTX3090
 
 ## inference engines
 
@@ -57,6 +59,8 @@ Link farm &amp; notes for using RTX3090 for AI
 # 8Gb VRAM
 
 * https://github.com/MistVVK/XeStrata Qwen3.8-Flash-Next
+
+# MSC
 
 ## tools
 
