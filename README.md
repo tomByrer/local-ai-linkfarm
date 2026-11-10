@@ -1,5 +1,5 @@
 # local-ai-linkfarm
-Link farm &amp; notes for using AI/LLM on local hardware.  Mostly focusing on less popular inferance engines, models, and related tools & tips for hardware I & friends own: RTX3090, RTX30880, M4 MacMini, etc.
+<small>Link farm &amp; notes for using AI/LLM on local hardware.  Mostly focusing on less popular inferance engines, models, and related tools & tips for hardware I & friends own: RTX3090, RTX30880, M4 MacMini, etc.</small>
 
 @ RTX3090
 
