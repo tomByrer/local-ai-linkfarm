@@ -7,6 +7,10 @@ Link farm &amp; notes for using AI/LLM on local hardware.
 
 ## inference engines
 
+### Multi
+
+ * rust: https://github.com/RustingStudio/RustingStrata
+
 ## MOE
 
 ### [Strata](https://github.com/Niko1221/Strata) forks
@@ -58,9 +62,10 @@ Link farm &amp; notes for using AI/LLM on local hardware.
   * https://huggingface.co/bartowski/MiMo-V2.6-Distill-Qwen-9B-GGUF
   * https://github.com/RandoTeam/StrataRealLowVRAM
 
-# AMD 9700
+# AMD
 
- * https://github.com/Eliovp-BV/paiton-vllm-plugin https://www.reddit.com/r/Qwen_AI/comments/1xraaey/while_everyone_waits_for_qwen_4_our_final_qwen38/
+ * RDNA3 & RDNA4: https://codeberg.org/StillDeadcode/radiance
+ * 9700: https://github.com/Eliovp-BV/paiton-vllm-plugin https://www.reddit.com/r/Qwen_AI/comments/1xraaey/while_everyone_waits_for_qwen_4_our_final_qwen38/
 
 # 8Gb VRAM
 
