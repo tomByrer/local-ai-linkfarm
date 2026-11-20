@@ -17,6 +17,7 @@ Link farm &amp; notes for using AI/LLM on local hardware.
 
 * https://github.com/VecSzn/PolyStrata/ for several MoE models
 * https://github.com/eddoursul/Lamina
+* https://github.com/mw00/project-maya DS, MM, Hy4
 
 ### Qwen3.8-Flash-Next
 
@@ -30,7 +31,6 @@ Link farm &amp; notes for using AI/LLM on local hardware.
  * https://github.com/syv-ai/HyperQwen
  * https://github.com/JakeATX/llamAmpere
  * https://github.com/signalnine/q27 3090+Apple, author works at NVIDIA, used by [potemkin](https://github.com/signalnine/potemkin
- * https://github.com/Don-Chad/ninfer-3090
  * https://github.com/sybil-solutions/trellis-serve SGLang serving [EXL3](https://github.com/turboderp-org/exllamav3) quants for 3090 & B70
 
 #### (too immature)
@@ -39,6 +39,7 @@ Link farm &amp; notes for using AI/LLM on local hardware.
 
 #### (not updated frequently)
 
+ * https://github.com/Don-Chad/ninfer-3090
  * https://github.com/Sandermage/sndr_core_engine
  * https://github.com/noonghunna/club-3090/)
  * https://github.com/r0b0tlab/qwen38-exl3-dflash2 DFlash2 for [ExLlamaV3](https://github.com/turboderp-org/exllamav3/tree/master), 262k context
