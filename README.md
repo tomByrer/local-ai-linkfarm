@@ -32,9 +32,9 @@ Link farm &amp; notes for using AI/LLM on local hardware.
  * https://github.com/JakeATX/llamAmpere
  * https://github.com/signalnine/q27 3090+Apple, author works at NVIDIA, used by [potemkin](https://github.com/signalnine/potemkin
  * https://github.com/sybil-solutions/trellis-serve SGLang serving [EXL3](https://github.com/turboderp-org/exllamav3) quants for 3090 & B70
+ * https://github.com/magnitudedev/magnitude tunes kernals for GPU/CPU all platforms
 
 #### (too immature)
- * https://github.com/magnitudedev/magnitude
  * https://github.com/BlockWayz/agens-engine [heavily customized model](https://huggingface.co/Blockway/Agens-Volundr-32B-v1)
 
 #### (not updated frequently)
