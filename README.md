@@ -13,6 +13,14 @@ Link farm &amp; notes for using AI/LLM on local hardware.
 
 ## MOE
 
+### Inkling 2 Mini
+'new kid on the block`
+
+ * current fork of Basalt fork:  https://github.com/Artiik373/adamant
+ * llamma.cpp forks:
+   + mixed 2-3 bit quant: https://github.com/hridaya423/inkling-2-mini-12gb , [reddit](ttps://www.reddit.com/r/LocalLLaMA/comments/1y2owzq/comment/19t15mfcq6vsx/?context=1)
+   + [Unsloth has their own fixed faster fork](https://www.reddit.com/r/unsloth/comments/1y3mds7/run_inkling_2_mini_ggufs_19x_faster_locally/)
+
 ### [Strata](https://github.com/Niko1221/Strata) forks
 
 * https://github.com/VecSzn/PolyStrata/ for several MoE models
