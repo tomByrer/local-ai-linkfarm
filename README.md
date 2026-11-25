@@ -66,6 +66,7 @@ Link farm &amp; notes for using AI/LLM on local hardware.
  * https://huggingface.co/DavidAU/Qwen3.8-27B-Jumbo-Fusion-IQ-747-900-Turbo-Brilliance-50X-Reasoning-Instruct-NEO-MAX-MTP-GGUF
  * [Qwen3.8 27B GSQ-RCO IQ3_S for 16GB VRAM](https://www.reddit.com/r/LocalLLaMA/comments/1wzfv45/just_my_how_i_run_qwen38_27b_on_16gb_experience/) 
  * https://huggingface.co/RedHatAI/Qwen3.8-27B-INT4#accuracy
+ * https://huggingface.co/prism-ml/Ternary-Bonsai-2.5-27B-GGUF [reddit](https://www.reddit.com/r/LocalLLaMA/comments/1y4mech/prismmlternarybonsai2527bgguf_hugging_face/)
 
  #### small
 
